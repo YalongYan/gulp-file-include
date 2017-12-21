@@ -1,3 +1,4 @@
+用于解决前后端分离中，Gulp实现头尾等公共页面的复用
 直接执行  cnpm  install 自动下载依赖的包
 然后执行 gulp  就执行gulp默认的任务  
 访问路   http://localhost:3000/dist/index/index.html
